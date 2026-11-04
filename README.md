@@ -13,6 +13,7 @@ Me interesa convertir datos en decisiones: pipelines de datos, modelos predictiv
 |---|---|---|
 | [**F1 Strategy Analytics**](https://github.com/wewesito/f1-strategy-analytics) | Análisis de estrategia en Fórmula 1 de punta a punta: telemetría, degradación de neumáticos, simulador de estrategia óptima y modelo de predicción de podios. Pipeline que se actualiza solo cada semana y [dashboard en vivo](https://wewesito.github.io/f1-strategy-analytics). | Python · FastF1 · DuckDB · scikit-learn · Plotly · GitHub Actions |
 | [**Puertollano IA**](https://github.com/wewesito/puertollano-ia) | Sistema multiagente que automatiza mi semana universitaria: seis agentes leen Canvas, Gmail y el calendario, limpian el ruido, detectan entregas y choques de fechas y cada mañana generan un parte del día. | Python · FastAPI · SQLite · Three.js · Claude Code |
+| [**Radar Bolsa**](https://github.com/wewesito/radar-bolsa) | App de escritorio para macOS que analiza unas 225 acciones y ETFs, puntúa cada valor de 0 a 100 frente a su sector, recomienda Comprar / Vigilar / Evitar según un test de perfil inversor y rankea las empresas del IBEX 35 y el Mercado Continuo por rentabilidad. Incluye cartera simulada, alertas y backtest. | Python · FastAPI · SQLite · Tauri · React · TypeScript |
 
 ---
 
@@ -20,7 +21,7 @@ Me interesa convertir datos en decisiones: pipelines de datos, modelos predictiv
 
 - **Datos:** Python (pandas, NumPy, scikit-learn) · SQL (DuckDB, SQLite)
 - **Visualización:** Plotly (dashboards interactivos) · Three.js
-- **Desarrollo:** FastAPI · JavaScript · Git y GitHub Actions · VS Code · Jupyter
+- **Desarrollo:** FastAPI · JavaScript / TypeScript · React · Tauri · Git y GitHub Actions · VS Code · Jupyter
 - **IA:** sistemas multiagente con Claude Code · automatización de flujos de trabajo
 
 ---
